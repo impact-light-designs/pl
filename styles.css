@@ -335,4 +335,8 @@ h3::before {
     height: 100%;
   }
 
+  h2{
+    font-size: 2rem;
+  }
+
 /* END OF MEDIA QUERIES SETTINGS */
